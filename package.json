@@ -1,12 +1,12 @@
 {
   "dependencies": {
+    "express": "^4.18.2",
     "telebot": "^1.4.1"
   },
   "name": "signup-form",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
-  "devDependencies": {},
   "scripts": {
     "go": "npm start"
   },
